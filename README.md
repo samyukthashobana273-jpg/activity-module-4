@@ -7,4 +7,5 @@ Branches <br>
 Pull request <br>
 Reviews <br>
 Comments and Merging <br>
+Collaborator <br>
 <hr>
